@@ -10,29 +10,29 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/LJ_code$LJ.coverage" NAME="LJ Coverage Results" MODIFIED="1522117543843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LJ_code$LJ.coverage" NAME="LJ Coverage Results" MODIFIED="1522222883050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="LJ.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LJ.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="40" column="10" lean-forward="false" selection-start-line="40" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
+            <state relative-caret-position="345">
+              <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
-                <marker date="1522117530527" expanded="true" signature="1060:1160" ph="insert into info... " />
-                <marker date="1522117530527" expanded="true" signature="1588:1736" ph="create table... info" />
+                <marker date="1522222872601" expanded="true" signature="1058:1158" ph="insert into info... " />
+                <marker date="1522222872601" expanded="true" signature="1477:1625" ph="create table... info" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://D:/python3/python_software/Lib/site-packages/pymysql/__init__.py">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://D:/python3/python_software/Lib/site-packages/requests/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+            <state relative-caret-position="7751">
+              <caret line="370" column="0" lean-forward="false" selection-start-line="370" selection-start-column="0" selection-end-line="370" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -60,10 +60,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="240" />
-    <option name="y" value="36" />
-    <option name="width" value="894" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="283" />
+    <option name="y" value="67" />
+    <option name="width" value="1304" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectView">
@@ -81,7 +81,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -93,6 +92,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -151,20 +151,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="240" y="36" width="894" height="1038" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27283105" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.123958334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.375" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32815966" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -192,8 +192,68 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
-            <marker date="1522117530527" expanded="true" signature="1060:1160" ph="insert into info... " />
-            <marker date="1522117530527" expanded="true" signature="1588:1736" ph="create table... info" />
+            <marker date="1522222872601" expanded="true" signature="1058:1158" ph="insert into info... " />
+            <marker date="1522222872601" expanded="true" signature="1477:1625" ph="create table... info" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python3/python_software/Lib/site-packages/requests/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7751">
+          <caret line="370" column="0" lean-forward="false" selection-start-line="370" selection-start-column="0" selection-end-line="370" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LJ.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1522222872601" expanded="true" signature="1058:1158" ph="insert into info... " />
+            <marker date="1522222872601" expanded="true" signature="1477:1625" ph="create table... info" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python3/python_software/Lib/site-packages/requests/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7751">
+          <caret line="370" column="0" lean-forward="false" selection-start-line="370" selection-start-column="0" selection-end-line="370" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LJ.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1522222872601" expanded="true" signature="1058:1158" ph="insert into info... " />
+            <marker date="1522222872601" expanded="true" signature="1477:1625" ph="create table... info" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python3/python_software/Lib/site-packages/requests/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7751">
+          <caret line="370" column="0" lean-forward="false" selection-start-line="370" selection-start-column="0" selection-end-line="370" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LJ.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1522222872601" expanded="true" signature="1058:1158" ph="insert into info... " />
+            <marker date="1522222872601" expanded="true" signature="1477:1625" ph="create table... info" />
           </folding>
         </state>
       </provider>
@@ -204,8 +264,80 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
-            <marker date="1522117530527" expanded="true" signature="1060:1160" ph="insert into info... " />
-            <marker date="1522117530527" expanded="true" signature="1588:1736" ph="create table... info" />
+            <marker date="1522222872601" expanded="true" signature="1058:1158" ph="insert into info... " />
+            <marker date="1522222872601" expanded="true" signature="1477:1625" ph="create table... info" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LJ.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1522222872601" expanded="true" signature="1058:1158" ph="insert into info... " />
+            <marker date="1522222872601" expanded="true" signature="1477:1625" ph="create table... info" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python3/python_software/Lib/site-packages/pymysql/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1794">
+          <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LJ.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1522222872601" expanded="true" signature="1058:1158" ph="insert into info... " />
+            <marker date="1522222872601" expanded="true" signature="1477:1625" ph="create table... info" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python3/python_software/Lib/site-packages/pymysql/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1794">
+          <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LJ.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1522222872601" expanded="true" signature="1058:1158" ph="insert into info... " />
+            <marker date="1522222872601" expanded="true" signature="1477:1625" ph="create table... info" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python3/python_software/Lib/site-packages/pymysql/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1794">
+          <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LJ.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1522222872601" expanded="true" signature="1058:1158" ph="insert into info... " />
+            <marker date="1522222872601" expanded="true" signature="1477:1625" ph="create table... info" />
           </folding>
         </state>
       </provider>
@@ -216,8 +348,8 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
-            <marker date="1522117530527" expanded="true" signature="1060:1160" ph="insert into info... " />
-            <marker date="1522117530527" expanded="true" signature="1588:1736" ph="create table... info" />
+            <marker date="1522222872601" expanded="true" signature="1058:1158" ph="insert into info... " />
+            <marker date="1522222872601" expanded="true" signature="1477:1625" ph="create table... info" />
           </folding>
         </state>
       </provider>
@@ -228,8 +360,20 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
-            <marker date="1522117530527" expanded="true" signature="1060:1160" ph="insert into info... " />
-            <marker date="1522117530527" expanded="true" signature="1588:1736" ph="create table... info" />
+            <marker date="1522222872601" expanded="true" signature="1058:1158" ph="insert into info... " />
+            <marker date="1522222872601" expanded="true" signature="1477:1625" ph="create table... info" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LJ.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1522222872601" expanded="true" signature="1058:1158" ph="insert into info... " />
+            <marker date="1522222872601" expanded="true" signature="1477:1625" ph="create table... info" />
           </folding>
         </state>
       </provider>
@@ -238,26 +382,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="191">
           <caret line="668" column="0" lean-forward="false" selection-start-line="668" selection-start-column="0" selection-end-line="668" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://D:/python3/python_software/Lib/site-packages/pymysql/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+        <state relative-caret-position="1242">
+          <caret line="88" column="39" lean-forward="true" selection-start-line="88" selection-start-column="39" selection-end-line="88" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python3/python_software/Lib/site-packages/requests/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7751">
+          <caret line="370" column="0" lean-forward="false" selection-start-line="370" selection-start-column="0" selection-end-line="370" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LJ.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="40" column="10" lean-forward="false" selection-start-line="40" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
+        <state relative-caret-position="345">
+          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
-            <marker date="1522117530527" expanded="true" signature="1060:1160" ph="insert into info... " />
-            <marker date="1522117530527" expanded="true" signature="1588:1736" ph="create table... info" />
+            <marker date="1522222872601" expanded="true" signature="1058:1158" ph="insert into info... " />
+            <marker date="1522222872601" expanded="true" signature="1477:1625" ph="create table... info" />
           </folding>
         </state>
       </provider>
